@@ -5,3 +5,4 @@ Fixing the problem when name label of EnderIO Travel Anchors is rendering as ser
 
 Mod created via ChatGPT and Qwen.
 Do backups just in case.
+Special for GTNH modpack
